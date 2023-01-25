@@ -8,7 +8,7 @@ This app has Form page used to add data, and a list page used to view the data.
 list page has page numbers and also can filter and search existing user information.
 
 
-### How to run it
+### How to run it.
 
 These are the instruction how to run the app on your machine:
 
@@ -22,17 +22,17 @@ Configure the php files with yours DB info.
 
 Make sure to create an database and user table in mysql server. you can use userInfo.sql , it contain queries for create db and table.
 
-###What was used
+### What was used.
 
--PHP
--MySQL
--bootstrap
--CSS 
--JavaScript
--Jquery
--HTML
+- PHP
+- MySQL
+- bootstrap
+- CSS 
+- JavaScript
+- Jquery
+- HTML
 
-###Web Application
+### Web Application.
 
 I have created validationsUser.js for validations. The onclick function is called when the user submit and then using sweet alerts to disply warning, error messages.
 
