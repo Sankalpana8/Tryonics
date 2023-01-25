@@ -1,14 +1,14 @@
 # Tryonics
 
 
-##PHP web application with mysql and bootstrap.
+## PHP web application with mysql and bootstrap.
 
 This project was built in to add user information (Name, About You, Birthday, Mobile Number, Email, Country) and also can update ,delete and view user information.
 This app has Form page used to add data, and a list page used to view the data. 
 list page has page numbers and also can filter and search existing user information.
 
 
-###How to run it
+### How to run it
 
 These are the instruction how to run the app on your machine:
 
