@@ -1,5 +1,3 @@
-# Tryonics
-
 
 ## PHP web application with mysql and bootstrap.
 
